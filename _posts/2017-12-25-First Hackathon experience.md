@@ -3,7 +3,7 @@ layout: post
 title: "First Hackathon Experience"
 date: 2017-12-25
 ---
- This is the first article for the website
+This is the first article for the website
  
 This will be the first article since the inception of this blog. In this article, I will be sharing my experience of attending a Hackathon for the first time. 
       
@@ -13,7 +13,7 @@ from all backgrounds participate in these events. These events can be regional, 
 almost being held every 1-2 weeks. It is an exhilarating learning experience. I urge everyone to participate in a Hackathon atleast once during their college or school time.
       
 I don't remember the date clearly. It was sometime halfway through the summer break(May-July). I was half-sleepily browsing 
-the Internet to kill my time. I came across the popular competitive programming website, <a href = "https://www.hackerearth.com/">Hackerearth</a>. There were a couple of live Hackathons and completed Hackathons listed on the page. One of them caught my eye-"IndiaHacks". It was an IOT based competition. I recollected my friend mentioning about IOT once. After googling a bit about the competition, I decided to ask my friend about it. He was livid and we both decided to register for the event. 
+the Internet to kill my time. I came across the popular competitive programming website, <a href = "https://www.hackerearth.com/">Hackerearth</a>. There were a couple of live Hackathons and completed Hackathons listed on the page. One of them caught my eye-"IndiaHacks". It was an IOT based competition. I recollected my friend mentioning about IOT once. After googling a bit about the competition, I decided to ask my friend about it. He was elated and we both decided to register for the event. 
 
 There were four categories for the topic."Smart driving", "Smart Home","Smart health", "Smart wearable devices". After bandying 
 for ideas, we settled on creating a smarter car headlight. It would automatically detect the light in its surroundings and regulate the light coming from it. This would prevent accidents due to high light beams. We filled the idea and registered for the event without any expectations. 
