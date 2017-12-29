@@ -50,13 +50,13 @@ Thanks for reading this lengthy write-up. I may have made a lot of mistakes and 
 
 **References:**
 
-1. <a href = "https://www.cleverism.com/guide-to-hackathon/"></a>
+1. <a href = "https://www.cleverism.com/guide-to-hackathon/">Guide to Hackathon</a>
 
-2. <a href = "https://www.wikiwand.com/en/Hackathon"></a>
+2. <a href = "https://www.wikiwand.com/en/Hackathon">What is Hackathon?</a>
 
-3. <a href = "https://www.hackerearth.com/sprints/internet-of-things-indiahacks-2017/"></a>
+3. <a href = "https://www.hackerearth.com/sprints/internet-of-things-indiahacks-2017/">IOT Contest</a>
 
-4. <a href = "https://www.wikiwand.com/en/Internet_of_things"></a>
+4. <a href = "https://www.wikiwand.com/en/Internet_of_things">Internet of things</a>
 
 
 Also, thanks to my friends for their suggestions to improve my blogpost
