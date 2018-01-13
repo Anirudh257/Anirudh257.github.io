@@ -16,8 +16,8 @@ is that it is an **in-place** algorithm, i.e. no new data structures are created
 **stable** sorting algorithm. This implies that the sorting doesn't preserve the relative ordering of equal elements.For eg,let us 
 consider an unsorted array: 
 
-  ![img]( https://anirudh257.github.io/unsorted%20array.jpg "Unsorted Array")
 <p align="center"><strong>Unsorted Array</strong></p>
+
 
   The different 2's are identified separately as 2_1 and 2_2, depending on their order of occurence. After sorting, an unstable sort
 will give an array in which 2_2 can come ahead of 2_1. Quicksort is am example of an unstable sort.
@@ -37,7 +37,29 @@ further into smaller sub-problems till the problem becomes very easy to solve. A
 together into the final problem.
 
 <!-- insert an image of divide and conquer here. -->
+<p align= "center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/divideandconquer.jpg" width="600">
+</img>
+</p>
 
-   Before delving into **Quicksort**, we have to understand another important method, **Partition**. It is an important s
+<p align="center"><strong>Divide and Conquer</strong></p>
+
+
+
+   Before delving into **Quicksort**, we have to understand another important method, **Partition**. It is an important precursor before the sorting process. In this step, we rearrange the array depending on the pivot. All the elements less than equal the pivot are put in the lower half of the array, and the remaining in the upper half of the array. 
    
-   
+   This is the working of the partition function:
+
+<p align= "center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition1.1.jpg" width="600">
+</img>
+</p>
+
+<p align= "center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition2.jpg" width="600">
+</img>
+</p>
+
+<p align="center"><strong>Partition funtion</strong></p>
+
+   hipos
