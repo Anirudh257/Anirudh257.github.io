@@ -5,8 +5,7 @@ date: 2018-01-07
 ---
 This is the fourth article for the website
 
-I am working on a project on **Audio classification using deep learning**. In this blog post, I will explain my premise behind 
-choosing this project and try to explain the problem in layman's words.
+I am working on a project on **Audio classification using deep learning**. In this blog post, I will try to explain deep learning and audio classification in this post.
 
 Firstly, let's consider **Audio classification**. It is a process of classifying audio data into distinct groups. Classification 
 helps in dividing huge chunks of data into useful categories. Human beings have inborn or trained capabilities to distinguish 
