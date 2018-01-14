@@ -15,9 +15,8 @@ is that it is an **in-place** algorithm, i.e. no new data structures are created
 consider an unsorted array: 
 
 <p align="center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/unsorted%20array.jpg" width="600"> </img>
+<img src="/images/unsorted array.jpg" width="600">
 </p>
-
 <p align="center"><strong>Unsorted Array</strong></p>
 
 
@@ -39,7 +38,7 @@ together into the final problem.
 
 <!-- insert an image of divide and conquer here. -->
 <p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/divideandconquer.jpg" width="600">
+<img src="/images/divideandconquer.jpg" width="600">
 </p>
 
 <p align="center"><strong>Divide and Conquer</strong></p>
@@ -66,16 +65,16 @@ We will try to understand the working of this partition function through pseudo-
 
 <!-- Insert images for the working of the partition function -->
 <p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working1.jpg" width="600">
+<img src="/images/partition_working1.jpg" width="600">
 </p>
 
 <p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working2.jpg" width="600">
+<img src="/images/partition_working2.jpg" width="600">
 </p>
 
 
 <p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working3.jpg" width="600">
+<img src="/images/partition_working3.jpg" width="600">
 </p>
 
 <p align="center"><strong>Partition step</strong></p>
