@@ -6,9 +6,7 @@ date: 2018-01-13
 This is the fifth article for the website
 
   After reading a lot of articles on medium by <a href = "https://medium.com/basecs">Basecs</a>,
-<a href = "https://medium.freecodecamp.org/">Freecodecamp</a>,<a href = "https://medium.com/@preethikasireddy">Preeti Kasireddy</a>,
-and many more, I thought about trying out my hand on explaining Computer Science concepts in easy words. Keeping this in mind, I 
-will try to explain the algorithm of **Quicksort** in my own words.
+<a href = "https://medium.freecodecamp.org/">Freecodecamp</a>,<a href = "https://medium.com/@preethikasireddy">Preeti Kasireddy</a>,and many more, I thought about trying out my hand on explaining difficult Computer Science concepts and break them down to first principles. Keeping this in mind, I will try to explain the algorithm of **Quicksort** in my own words.
 
  <a href = "https://www.wikiwand.com/en/Quicksort">**Quicksort**</a> is a popular sorting algorithm. It has several properties 
 that make it more desirable to use than its counterparts like **Insertionsort**, **MergeSort** or **HeapSort**. Its main porperties
@@ -115,4 +113,4 @@ The pseudocode will be:
 </ol>
 
 
-Feel free to add suggestions below.
+Feel free to add suggestions in the comments below.
