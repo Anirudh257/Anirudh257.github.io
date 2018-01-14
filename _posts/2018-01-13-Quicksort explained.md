@@ -26,15 +26,11 @@ will give an array in which 2_2 can come ahead of 2_1. Quicksort is am example o
 
   So, how does quicksort work? The main element of a quicksort is the **pivot** element. Any element of the array can be chosen as
 the pivot element. By convention, pivot element can be one of the given four elements:
-
-      <ol>
-        
-        <li>First element</li>
-        <li>Last element</li>
-        <li>Random element</li>
-        <li>Median element</li>
-        
-      </ol>
+  1. First element
+  2. Last element
+  3. Median element
+  4. Random element
+       
 
  The pivot element plays an important in the quicksort, that we will see now. We use a popular programming methodology, **Divide 
 and Conquer**. In this paradigm, we decrease a problem into 2 smaller problems and divide these subproblems
@@ -44,7 +40,6 @@ together into the final problem.
 <!-- insert an image of divide and conquer here. -->
 <p align= "center">
 <img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/divideandconquer.jpg" width="600">
-</img>
 </p>
 
 <p align="center"><strong>Divide and Conquer</strong></p>
@@ -72,18 +67,15 @@ We will try to understand the working of this partition function through pseudo-
 <!-- Insert images for the working of the partition function -->
 <p align= "center">
 <img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working1.jpg" width="600">
-</img>
 </p>
 
 <p align= "center">
 <img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working2.jpg" width="600">
-</img>
 </p>
 
 
 <p align= "center">
 <img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working3.jpg" width="600">
-</img>
 </p>
 
 <p align="center"><strong>Partition step</strong></p>
@@ -106,14 +98,12 @@ The pseudocode will be:
 
 
 **References:**
-<ol>
-  <li><a href = "https://www.wikiwand.com/en/Quicksort#/Hoare_partition_scheme">Wikiwand article on Quicksort</a>
-  <li><a href = "http://www.iarcs.org.in/inoi/online-study-material/topics/quicksort.php">Indian Computing Olympiad</a>
-  <li><a href = "https://www.youtube.com/watch?time_continue=281&v=MZaf_9IZCrc">Quicksort to partition the array</a>
-  <li><a href = "https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313">Basecs article</a>
-  <li><a href = "https://www.youtube.com/watch?v=COk73cpQbFQ">Mycodeschool video</a></li>
-  <li><a href = "https://visualgo.net/en/sorting">Simulation of quicksort</a></li>
-</ol>
+  1. <a href = "https://www.wikiwand.com/en/Quicksort#/Hoare_partition_scheme">Wikiwand article on Quicksort</a>
+  2. <a href = "http://www.iarcs.org.in/inoi/online-study-material/topics/quicksort.php">Indian Computing Olympiad</a>
+  3. <a href = "https://www.youtube.com/watch?time_continue=281&v=MZaf_9IZCrc">Quicksort to partition the array</a>
+  4. <a href = "https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313">Basecs article</a>
+  5. <a href = "https://www.youtube.com/watch?v=COk73cpQbFQ">Mycodeschool video</a>
+  6. <a href = "https://visualgo.net/en/sorting">Simulation of quicksort</a>
 
 
 Feel free to add suggestions in the comments below.
