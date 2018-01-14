@@ -16,6 +16,10 @@ is that it is an **in-place** algorithm, i.e. no new data structures are created
 **stable** sorting algorithm. This implies that the sorting doesn't preserve the relative ordering of equal elements.For eg,let us 
 consider an unsorted array: 
 
+<p align="center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/unsorted%20array.jpg" width="600"></img>
+</p>
+
 <p align="center"><strong>Unsorted Array</strong></p>
 
 
@@ -47,19 +51,48 @@ together into the final problem.
 
 
    Before delving into **Quicksort**, we have to understand another important method, **Partition**. It is an important precursor before the sorting process. In this step, we rearrange the array depending on the pivot. All the elements less than equal the pivot are put in the lower half of the array, and the remaining in the upper half of the array. 
-   
+
+We will try to understand the working of this partition function through pseudo-code:
+
+<pre class="brush: python">
+  pivot <- last element in array
+  i <- position of lowest element - 1
+  j <- index of lowest element 
+  for j<- low to pivot's location - 1
+    comp(a[j] >= pivot )
+      i<- i+1
+      swap(a[i],a[j])
+  //Swap the pivot and the element in the pivot's location
+  swap(pivot,a[i+1])
+</pre>
+
    This is the working of the partition function:
 
-<p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition1.1.jpg" width="600">
-</img>
-</p>
+<!-- Insert images for the working of the partition function -->
 
-<p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition2.jpg" width="600">
-</img>
-</p>
+So, after the **partition** step, the array is in the form: all elements <= pivot are in the lower half of the array and all the elements higher are in the upper half of the array.
 
-<p align="center"><strong>Partition funtion</strong></p>
+Now, we can deal with Quicksort. In quicksort, as we had accounted earlier, we perform the **Divide and Conquer** strategy to sort the array. 
+**Divide:**We perform the partition step on the lower half of the array and the upper half of the array continuously till we reach the sorted array( array with only 1 element is sorted). 
+**Conquer**: Combine all the sorted arrays to form the sorted array.
 
-   hipos
+The pseudocode will be:
+
+<pre class="brush: python">
+  //Condition for recursion
+  if(size > 1)
+    pivot_index <-partition(array)
+    quicksort(lower half of array)//Elements in the array <= pivot
+    quicksort(upper half of the array)//Elements in the array > pivot
+</pre>
+
+
+**References:**
+<ol>
+  <li><a href = "https://www.wikiwand.com/en/Quicksort#/Hoare_partition_scheme">Wikiwand article on Quicksort</a>
+  <li><a href = "http://www.iarcs.org.in/inoi/online-study-material/topics/quicksort.php">Indian Computing Olympiad</a>
+  <li><a href = "https://www.youtube.com/watch?time_continue=281&v=MZaf_9IZCrc">Quicksort to partition the array</a>
+  <li><a href = "https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313">Basecs article</a>
+  <li><a href = "https://www.youtube.com/watch?v=COk73cpQbFQ">Mycodeschool video</a></li>
+  <li><a href = "https://visualgo.net/en/sorting">Simulation of quicksort</a></li>
+</ol>
