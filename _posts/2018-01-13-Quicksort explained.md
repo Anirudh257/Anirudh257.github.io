@@ -15,7 +15,7 @@ is that it is an **in-place** algorithm, i.e. no new data structures are created
 consider an unsorted array: 
 
 <p align="center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/unsorted%20array.jpg" width="600"></img>
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/unsorted%20array.jpg" width="600"> </img>
 </p>
 
 <p align="center"><strong>Unsorted Array</strong></p>
@@ -26,11 +26,14 @@ will give an array in which 2_2 can come ahead of 2_1. Quicksort is am example o
 
   So, how does quicksort work? The main element of a quicksort is the **pivot** element. Any element of the array can be chosen as
 the pivot element. By convention, pivot element can be one of the given four elements:
+
       <ol>
+        
         <li>First element</li>
         <li>Last element</li>
         <li>Random element</li>
         <li>Median element</li>
+        
       </ol>
 
  The pivot element plays an important in the quicksort, that we will see now. We use a popular programming methodology, **Divide 
