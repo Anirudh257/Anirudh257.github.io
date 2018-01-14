@@ -69,11 +69,28 @@ We will try to understand the working of this partition function through pseudo-
    This is the working of the partition function:
 
 <!-- Insert images for the working of the partition function -->
+<p align= "center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working1.jpg" width="600">
+</img>
+</p>
+
+<p align= "center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working2.jpg width="600">
+</img>
+</p>
+
+
+<p align= "center">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working3.jpg width="600">
+</img>
+</p>
+
+<p align="center"><strong>Partition step</strong></p>
 
 So, after the **partition** step, the array is in the form: all elements <= pivot are in the lower half of the array and all the elements higher are in the upper half of the array.
 
 Now, we can deal with Quicksort. In quicksort, as we had accounted earlier, we perform the **Divide and Conquer** strategy to sort the array. 
-**Divide:**We perform the partition step on the lower half of the array and the upper half of the array continuously till we reach the sorted array( array with only 1 element is sorted). 
+**Divide**: We perform the partition step on the lower half of the array and the upper half of the array continuously till we reach the sorted array( array with only 1 element is sorted). 
 **Conquer**: Combine all the sorted arrays to form the sorted array.
 
 The pseudocode will be:
