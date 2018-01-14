@@ -75,13 +75,13 @@ We will try to understand the working of this partition function through pseudo-
 </p>
 
 <p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working2.jpg width="600">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working2.jpg" width="600">
 </img>
 </p>
 
 
 <p align= "center">
-<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working3.jpg width="600">
+<img src="https://github.com/Anirudh257/Anirudh257.github.io/blob/master/partition_working3.jpg" width="600">
 </img>
 </p>
 
