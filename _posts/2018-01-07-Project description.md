@@ -23,7 +23,6 @@ To solve these intuitive problems, we employ the use of <a href = "https://www.w
 
 <p align="center">
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fhyperstition.abstractdynamics.org%2Farchives%2FNeuron0.jpg&f=1" width="400">
-</img>
 </p>
 
 <p align="center"><strong>Neuron</strong></p>
@@ -31,9 +30,7 @@ To solve these intuitive problems, we employ the use of <a href = "https://www.w
 Tasks like describing a colour or an image in mathematical terms is very difficult. This problem is taken care off by Deep Learning. It makes the computers learn by **experience** and understand the world in a **hierarchial** manner. For example, let us consider the simple task of buying potatotes from a market. 
 
 <p align="center">
-<img src="<p align="center">
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fstormtubers.weebly.com%2Fuploads%2F2%2F4%2F9%2F1%2F24912084%2Fs288114508727664819_p1_i1_w1514.jpeg&f=1" width="400">
-</img>
 </p>
 
 <p align="center"><strong>Potato</strong></p>
@@ -43,17 +40,13 @@ If we follow the traditonal coding, it will become almost impossible to describe
 The neural networks will go through many images of potatoes( millions!!) and try to develop its own intuition about what are potatoes. This intuition is formed in the form of graphs of related concepts. In the end, it can understand what is a potato and describe it perfectly. It will form a shape like this.
 
 <p align="center">
-<img src="<p align="center">
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.marutitech.com%2Fwp-content%2Fuploads%2F2016%2F09%2FNeural-network.png&f=1" width="400">
-</img>
 </p>
 
 <p align="center"><strong>Neural network after feeding one image of potato</strong></p>
 
 <p align="center">
-<img src="<p align="center">
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fneuralnetworksanddeeplearning.com%2Fimages%2Ftikz12.png&f=1">
-</img>
 </p>
 
 <p align="center"><strong>Neural network after feeding millions of images of potato</strong></p>
