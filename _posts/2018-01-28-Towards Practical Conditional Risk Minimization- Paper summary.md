@@ -3,7 +3,7 @@ layout: post
 title: "Towards Practical Conditional Risk Minimization"
 date: 2018-01-28
 ---
-This is the fifth article for the website.
+This is the sixth article for the website.
 
    After being inspired by [Shagun Sodhani](http://shagunsodhani.in/papers-I-read/) and [Philip Guo](http://pgbovine.net/research-paper-summary-summary.htm),
 I have decided to augment my understanding of my current interests[Computer Vision and Deep Learning] by explaining difficult 
