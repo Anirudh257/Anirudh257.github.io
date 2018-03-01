@@ -44,7 +44,7 @@ the images of our interest. We employ the following approach:
 
 1) **Layer of Interest(LOI) extraction:**
 
-I/P: A stack of OCT images + position cue image <img src = "http://www.sciweavers.org/upload/Tex2Img_1519901669/render.png" width = "">
+I/P: A stack of OCT images + position cue image <img src = "http://mathurl.com/y8z7c5hk.png" width = "35">
 This is passed through 2 modules parallelly: Horizontal Module[HM] and Vertical Module[VM]. The purpose of these 2 layers is 
 
 1) Learn if there is any problem present in the eye[Horizontal Module] by comparing horizontal neighbour images.
@@ -54,15 +54,15 @@ This is passed through 2 modules parallelly: Horizontal Module[HM] and Vertical 
 The outputs from both these layers are combined and sent to the Square Filter Module[SM] which generates the final output of this 
 step.
 
-O/P: LOI <img src = "http://www.sciweavers.org/upload/Tex2Img_1519902113/render.png" width = "25"> with 9 layers[ 7 layers + 
+O/P: LOI <img src = "http://mathurl.com/y7kwzjpu.png" width = "25"> with 9 layers[ 7 layers + 
 vitreous cavity + choroid].
 
 2) **Edge detection:** 
 
-I/P: <img src = "http://www.sciweavers.org/upload/Tex2Img_1519902113/render.png" width = "25"> 
+I/P: <img src = "http://mathurl.com/y7kwzjpu.png" width = "25"> 
 This is also passed through a similar trilateral modules[HM, VM and SM]. 
 HM learns the horizontal orientation, VM learns the vertical orientation and SM combines both the outputs to give a final image
-<img src = "http://www.sciweavers.org/upload/Tex2Img_1519902456/render.png" width = "25">, covering all the kinds of orientation.
+<img src = "" width = "25">, covering all the kinds of orientation.
 
 O/P: <img src = "http://www.sciweavers.org/upload/Tex2Img_1519902456/render.png" width = "35">
 
