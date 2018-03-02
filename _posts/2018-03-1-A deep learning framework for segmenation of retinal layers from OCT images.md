@@ -78,7 +78,7 @@ estimated <img src = "http://mathurl.com/y8vet26t.png" width = "30"> helps in tr
 
 **5) Methods:**
 
-<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medical/OCT.png">
+<img src = "https://Anirudh257.github.io/blob/medical/OCT.png">
 
 
 **6)Results:**
