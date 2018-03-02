@@ -59,16 +59,16 @@ vitreous cavity + choroid].
 
 2) **Edge detection:** 
 
-I/P: <img src = "http://mathurl.com/y7kwzjpu.png" width = "25"> 
+I/P: <img src = "http://mathurl.com/y7kwzjpu.png" width = "35"> 
 This is also passed through a similar trilateral modules[HM, VM and SM]. 
 HM learns the horizontal orientation, VM learns the vertical orientation and SM combines both the outputs to give a final image
-<img src = "" width = "25">, covering all the kinds of orientation.
+<img src = "http://mathurl.com/y96va3hb.png" width = "25">, covering all the kinds of orientation.
 
-O/P: <img src = "http://www.sciweavers.org/upload/Tex2Img_1519902456/render.png" width = "35">
+O/P: <img src = "http://mathurl.com/y96va3hb.png" width = "35">
 
 3) **Boundary tracing:**
 
-I/P: <img src = "http://www.sciweavers.org/upload/Tex2Img_1519902456/render.png" width = "25">
+I/P: <img src = "http://mathurl.com/y96va3hb.png" width = "25">
 This step employs the use of BLSTMs. We calculate 8 boundary co-ordinates <src img = "http://mathurl.com/y8ltu8da.png" width = "55"> 
 for each column i of the image. The <img src = "http://mathurl.com/y8ltu8da.png" width = "25"> is shifted right and left twice:
 (<img src = "http://mathurl.com/y8ltu8da.png" width = "25"> (x - k,y); k <img src = "http://mathurl.com/2bwxnd6.png" width = "15">
@@ -78,14 +78,14 @@ estimated <img src = "http://mathurl.com/y8vet26t.png" width = "30"> helps in tr
 
 **5) Methods:**
 
-<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/OCT.png">
+<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medical/OCT.png">
 
 
 **6)Results:**
 
-<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/resultsMedical.png" width = "1000">
+<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medical/resultsMedical.png" width = "1000">
 
-<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medicalImg.png" width = "1000">
+<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medical/medicalImg.png" width = "1000">
 
 
 **7) Determine whether the results answer the specific questions?**
