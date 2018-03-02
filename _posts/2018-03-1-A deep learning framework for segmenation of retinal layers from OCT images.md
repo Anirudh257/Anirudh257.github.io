@@ -78,14 +78,14 @@ estimated <img src = "http://mathurl.com/y8vet26t.png" width = "30"> helps in tr
 
 **5) Methods:**
 
-<img src = "https://Anirudh257.github.io/blob/medical/OCT.png">
+<img src = " Anirudh257.github.io/medical/OCT.png ">
 
 
 **6)Results:**
 
-<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medical/resultsMedical.png" width = "1000">
+<img src = " Anirudh257.github.io/medical/resultsMedical.png " width = "1000">
 
-<img src = "https://github.com/Anirudh257/Anirudh257.github.io/blob/master/medical/medicalImg.png" width = "1000">
+<img src = " Anirudh257.github.io/medical/medicalImg.png " width = "1000">
 
 
 **7) Determine whether the results answer the specific questions?**
