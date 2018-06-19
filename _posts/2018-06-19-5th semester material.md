@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5th semester material added"
-date: 2018-19-06
+date: 2018-06-19
 ---
 This is the tenth article on the website
 
