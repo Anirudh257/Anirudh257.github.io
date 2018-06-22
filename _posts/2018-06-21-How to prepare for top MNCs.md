@@ -86,4 +86,4 @@ GeeksforGeeks: A bible of problems (with well explained solutions). Make sure yo
 CareerCup: A huge collection of problems. Though you can’t rely upon solutions, it provides a rich community for discussing problems. I found it good for discussing design problems
 Project Euler: A heaven for mathematics lovers. You solve the problems using some formulas on paper and then write code to get the final solution. Solve at least 40 problems from this site.
 
-**Posted with permission from <a href = "https://www.geeksforgeeks.org/prepare-top-mncs/">How to prepare for top MNCs</a>
+**Posted with permission from <a href = "https://www.geeksforgeeks.org/prepare-top-mncs/">How to prepare for top MNCs</a>**
