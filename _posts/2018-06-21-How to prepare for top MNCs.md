@@ -29,7 +29,7 @@ Data Structures and Algorithms is very important and serves as the backbone of p
 
 For beginners, <a href = "https://www.amazon.com/Fundamentals-Data-Structures-Ellis-Horowitz/dp/0929306406?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0929306406">Fundamentals of Data Structures in C by Sahni Horowitz is good</a>. After reading it, you should be able to understand basic Data Structures, how they are implemented and fewer examples where they can be used. Don’t expect to learn advanced DS through this. After your basic concepts are clear and you are comfortable implementing them in a language of your choice, you can work on learning algorithms and solving problems.
 
-Many sites (including GeeksforGeeks) present problems in a very adhoc manner with no order of difficulty level. This makes things difficult for beginners because they don’t know the difficulty level of the problem they are attempting. <a href = "https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X/ref=sr_1_1?s=books&ie=UTF8&qid=1529638679&sr=1-1&keywords=data+structures+and+algorithms+made+easy+by+narasimha+karumanchi">Data Structures and Algorithms made easy by Narasimha Karumanchi</a> is a good read after you are comfortable with the basics. It has pretty good collection of problems organized by difficulty level. Just make sure to try to solve problems on your own instead of rushing for the solution. Once you have a fair understanding of DS and have got some confidence in solving problems, jump to online portals and start solving problems from topic of your choice. "><a href = "https://www.geeksforgeeks.org/">GeeksforGeeks</a> is good to start with.
+Many sites (including GeeksforGeeks) present problems in a very adhoc manner with no order of difficulty level. This makes things difficult for beginners because they don’t know the difficulty level of the problem they are attempting. <a href = "https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X/ref=sr_1_1?s=books&ie=UTF8&qid=1529638679&sr=1-1&keywords=data+structures+and+algorithms+made+easy+by+narasimha+karumanchi">Data Structures and Algorithms made easy by Narasimha Karumanchi</a> is a good read after you are comfortable with the basics. It has pretty good collection of problems organized by difficulty level. Just make sure to try to solve problems on your own instead of rushing for the solution. Once you have a fair understanding of DS and have got some confidence in solving problems, jump to online portals and start solving problems from topic of your choice. <a href = "https://www.geeksforgeeks.org/">GeeksforGeeks</a> is good to start with.
 
 **For Algorithms, <a href = "https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_3?s=books&ie=UTF8&qid=1529638793&sr=1-3&keywords=cormen+introduction+to+algorithms">Introduction to Algorithms</a> by Cormen is a must read.**
 
@@ -73,6 +73,7 @@ Few points to note:
 1. Maintain a header to fit info like name, email id, address and contact number
 
 2. Mention level of expertise corresponding to each language. Example: Proficient in C and good at Java
+
 3. If you are mentioning a project, write your key learning, impact in the team and . If this project is online (an app), don’t forget to include the link. This will show that you built something that is being used by people . Guess what, this is what companies do, building a product, stabilizing it as per user feedback, taking in new feature requests and so on.
 
 **<a href = "https://www.quora.com/What-are-common-mistakes-that-applicants-make-when-writing-their-resumes-for-tech-companies-mainly-for-software-engineering-positions/answer/Gayle-Laakmann-McDowell?ref=fb_page">Here are few useful tips from Gayle – What are common mistakes that applicants make when writing their resumes for tech companies?</a>**
@@ -110,4 +111,4 @@ Resources (which I haven’t talked about):
 
  4. <a href = "https://projecteuler.net/">Project Euler</a>: A heaven for mathematics lovers. You solve the problems using some formulas on paper and then write code to get the final solution. Solve at least 40 problems from this site.
 
-**Posted with permission from <a href = "https://www.geeksforgeeks.org/prepare-top-mncs/">How to prepare for top MNCs</a>**
+**Posted with permission from <a href = "https://www.geeksforgeeks.org/prepare-top-mncs/">Aashish Barnwal</a>**
