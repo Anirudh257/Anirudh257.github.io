@@ -52,7 +52,7 @@ interested you in their papers or projects. A mail should ideally have 3 parts:<
         their research and what you would like to work on if given an opportunity.</li>
       <li>This entire mail should not be more than 250 words long. Then include the CV as a Google Drive Link to this mail. 
       Mails with attachments go into spam sometimes.</li>
-    <b>P.S: All this information was also found through contacting a past intern on LinkedIn. :)</b>
+    <b>Thanks to <a href = "https://www.linkedin.com/in/akhil-john/">Akhil John</a> for this priceless advice:)</b>
   </ul>
   
 <li> The professor is really busy. If you can’t get a reply within a week, try to remind the professor again. If you still get
