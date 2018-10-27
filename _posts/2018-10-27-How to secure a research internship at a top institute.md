@@ -18,7 +18,7 @@ Learning and helped me get started off in this field. I also realized its power 
 I followed this age-old maxim:
 
 <h3 align="center">Doing is the best way of learning something</h3>
-At the end of my 2nd year and till the 2nd year summer, I worked under a professor on 
+In my 2nd year summer, I worked under a professor on 
 <a href = "https://github.com/Anirudh257/MDO-oversampling">Mahalanobis Distance Oversampling</a>, an algorithm to improve the
 performance of classification algorithms on imbalanced datasets. I read and implemented the paper. Then, I also worked on a 
 year-long project in my 3rd year on <a href = "https://github.com/Anirudh257/Audio-files-extraction">Audio Classification</a>.
