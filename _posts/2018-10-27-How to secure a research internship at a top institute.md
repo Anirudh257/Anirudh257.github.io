@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to become a Full Stack developer"
+title: "How to secure a research internship at a top institute"
 date: 2018-10-27
 ---
 This is the fourteenth article on the website.
