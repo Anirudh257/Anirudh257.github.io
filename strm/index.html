@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>TF-VAEGAN</title>
+    <title>STRM</title>
 
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +19,7 @@
     <meta property="og:image:height" content="682">
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://github.com/Anirudh257/strm"/>
-    <meta property="og:title" content="TF-VAEGAN" />
+    <meta property="og:title" content="STRM" />
     <meta property="og:description" content="Project page for Spatio-temporal Relation Modeling for Few-shot Action Recognition"/>
 
         <!--TWITTER-->
@@ -55,14 +55,14 @@
                 <b>Spatio-temporal Relation Modeling for Few-shot Action Recognition </br></b>
                 <small>
                     <b>CVPR 2022</b>
-                </small>https://mbzuai-cv-lab.netlify.app/author/dr.-rao-anwer/
+                </small>
             </h2>
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
                 <ul class="list-inline">
                      <li>
-                        <a href=https://anirudh257.github.io//">
+                        <a href=https://anirudh257.github.io/">
                             <b>Anirudh Thatipelli</b>
                         </a>
                         </br><b>MBZUAI</b>
@@ -127,21 +127,8 @@
                     <b>Paperswithcode Badges</b>
                 </h3>
                     <image src="img/papers_with_code_badge.png" class="img-responsive" alt="overview"><br>                <p class="text-justify">
-                    Our proposed method TF-VAEGAN, current state-of-the-art for ZSL and GZSL (as seen from the above badges). Please do consider adding recent ZSL or GZSL results to the same.
+                    Our proposed model, STRM attains current state-of-the-art for Few-shot Action Recognition. 
                 </p>
-            </div>
-        </div>
-
-         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    <b>Video/Overview</b>
-                </h3>
-                <div class="text-center">
-                    <div style="position:relative;padding-top:56.25%;">
-                        <iframe src="https://www.youtube.com/embed/tNmyfKVUIpo" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-                    </div>
-                </div>
             </div>
         </div>
 
@@ -151,9 +138,9 @@
                     <b>Abstract</b>
                 </h3>
                 <p class="text-justify">
-Zero-shot learning strives to classify unseen categories for which no data is available during training. In the generalized variant, the test samples can further belong to seen or unseen categories. The state-of-the-art relies on Generative Adversarial Networks that synthesize unseen class features by leveraging class-specific semantic embeddings. During training, they generate semantically consistent features, but discard this constraint during feature synthesis and classification. We propose to enforce semantic consistency at all stages of (generalized) zero-shot learning: training, feature synthesis and classification. We first introduce a feedback loop, from a semantic embedding decoder, that iteratively refines the generated features during both the training and feature synthesis stages. The synthesized features together with their corresponding latent embeddings from the decoder are then transformed into discriminative features and utilized during classification to reduce ambiguities among categories. Experiments on (generalized) zero-shot object and action classification reveal the benefit of semantic consistency and iterative feedback, outperforming existing methods on six zero-shot learning benchmarks.
+                   We propose a novel few-shot action recognition framework, STRM, which enhances class-specific feature discriminability while simultaneously learning higher-order temporal representations. The focus of our approach is a novel spatio-temporal enrichment module that aggregates spatial and temporal contexts with dedicated local patch-level and global frame-level feature enrichment sub-modules. Local patch-level enrichment captures the appearance-based characteristics of actions. On the other hand, global frame-level enrichment explicitly encodes the broad temporal context, thereby capturing the relevant object features over time. The resulting spatio-temporally enriched representations are then utilized to learn the relational matching between query and support action sub-sequences. We further introduce a query-class similarity classifier on the patch-level enriched features to enhance class-specific feature discriminability by reinforcing the feature learning at different stages in the proposed framework.Experiments are performed on four few-shot action recognition benchmarks: Kinetics, SSv2, HMDB51 and UCF101. Our extensive ablation study reveals the benefits of the proposed contributions. Furthermore, our approach sets a new state-of-the-art on all four benchmarks. On the challenging SSv2 benchmark, our approach achieves an absolute gain of 3.5% in classification accuracy, as compared to the best existing method in the literature. 
                 </p>
-                <image src="img/paper_arch.png" class="img-responsive" alt="overview"><br>
+                <image src="img/strm_arch.png" class="img-responsive" alt="overview"><br>
             </div>
         </div>
 
@@ -163,7 +150,7 @@ Zero-shot learning strives to classify unseen categories for which no data is av
                     <b>Classification Results</b>
                 </h3>
                 <p class="text-justify">
-                   Below you will find quantitative results for ZSL and GZSL classification in comparison with the previous methods.
+                   Below you will find quantitative results for Few-shot Learning with comparison to previous methods
                 </p>                
                 <br>
                 <image src="img/table_results.png" class="img-responsive" alt="overview"><br>
@@ -176,17 +163,7 @@ Zero-shot learning strives to classify unseen categories for which no data is av
                 <br>
                 <image src="img/classification_1.png" class="img-responsive" alt="overview"><br>
                 <image src="img/classification_2.png" class="img-responsive" alt="overview"><br>
-                <h3>
-                    <b>Image Reconstruction Results</b>
-                </h3>
-                <p class="text-justify">
-                   Below you will find inverted images of Baseline synthesized features and our Feedback synthesized features on four example classes of oxford-flowers dataset.
-                   These observations suggest that our Feedback improves the quality of synthesized features over the Baseline, where no feedback is present. 
-                   <b>Best viewed in color and zoom.</b>
-                </p>                
-                <br>
-                <image src="img/reconstruction.png" class="img-responsive center-block" alt="overview"><br>
-            </div>
+                   </div>
         </div>
 
         <div class="row">
