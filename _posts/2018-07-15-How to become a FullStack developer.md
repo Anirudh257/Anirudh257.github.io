@@ -19,7 +19,7 @@ I am assuming you have zero experience in web development.
 
 <h3>Learning Basic Frontend Development</h3>
 
-The first step in full stack web development is learning HTML5, CSS3 and JavaScript. HTML5 is a markup language that is used to markup 
+The first step in full stack web development is learning <a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>, <a href="https://en.wikipedia.org/wiki/CSS3_(disambiguation)">CSS3</a> and <a href="https://www.scaler.com/topics/javascript/what-is-javascript/">JavaScript</a>. HTML5 is a markup language that is used to markup 
 web pages. CSS3 is a styling language that is used to style HTML5. Without CSS3, the web page would look real bad. HTML5 and CSS3 are not
 programming languages. Now time to learn a programming language. With HTML5 and CSS3 you would want to learn JavaScript, The language of
 the Internet. The language that powers the browser. JavaScript is used to bring interactivity in web pages. Try to disable JavaScript in
